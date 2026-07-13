@@ -6,7 +6,7 @@
 
 Sistem Deteksi Penyebrangan Jalan Otomatis (Smart Pelican Crossing) berbasis Computer Vision. Proyek ini menggunakan YOLOv8 untuk mendeteksi pejalan kaki secara real-time dari kamera dan secara otomatis mengontrol perangkat keras lampu lalu lintas melalui mikrokontroler Arduino.
 
-Proyek ini dibangun untuk keperluan pengujian dan evaluasi tugas akhir/skripsi.
+Proyek ini dibangun untuk keperluan pengujian dan evaluasi tugas.
 
 ---
 
