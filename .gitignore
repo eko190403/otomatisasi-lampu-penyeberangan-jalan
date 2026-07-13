@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+yolov8_env/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Log Files and Outputs
+*.csv
+*.txt
+*.log
+
+# Images and Videos generated during runtime
+*.MOV
+*.mp4
+*.avi
+*.mkv
+*.png
+*.jpg
+*.jpeg
+
+# Output folders
+screenshots_final/
+malam/
+siang/
+malam_screenshots/
+siang_screenshots/
+eval_frames_final/
+evaluasi_akurasi/
+analisis_grafik/
+runs/
+
+# IDE files
+.vscode/
+.idea/
+.qodo/
+
+# Other
+.DS_Store
